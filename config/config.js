@@ -10,7 +10,7 @@
 export default {
     lovexhj: {
         // 后端地址
-        ServerBase: "https://Nodejs.xpand.repl.co",
+        ServerBase: "https://SelfreliantReasonableTriggers.xpand.repl.co",
         // 码云账号
         owner: "xpand",
         // 仓库名称
