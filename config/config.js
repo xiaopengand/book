@@ -10,11 +10,11 @@
 export default {
     lovexhj: {
         // 后端地址
-        ServerBase: "https://api.n0ts.cn/api/gitee",
+        ServerBase: "https://Nodejs.xpand.repl.co",
         // 码云账号
-        owner: "n0ts",
+        owner: "xpand",
         // 仓库名称
-        repo: "jichou",
+        repo: "xbb",
         // 页面刚加载文字
         loadingText: "正在打开小本本",
         // 首页
